@@ -1,0 +1,3 @@
+/home/amron/Projects/ascii_project/build/CMakeFiles/main.dir
+/home/amron/Projects/ascii_project/build/CMakeFiles/edit_cache.dir
+/home/amron/Projects/ascii_project/build/CMakeFiles/rebuild_cache.dir

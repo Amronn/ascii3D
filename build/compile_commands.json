@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/amron/Projects/ascii_project/build",
+  "command": "/usr/bin/g++ -Dcimg_use_jpeg -I/home/amron/Projects/ascii_project/include -g -std=c++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/amron/Projects/ascii_project/src/main.cpp",
+  "file": "/home/amron/Projects/ascii_project/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]
